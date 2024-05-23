@@ -153,19 +153,18 @@ nav, .content {
 }
 
 .contentTxt {
-    width: 40%;
     font-size: 20px;
     line-height: 30px;
     margin-left: 12%;
     text-align: justify;
 }
 
-.content img {
-    float: right;
-    width: 500px;
-    margin-top: -55%;
-    margin-right: 5%;
+.img-pag2 {
+    float:right;
+    margin: auto 5%;
 }
+
+
 
 #titulo-equipes {
     font-size: 50px;
@@ -254,6 +253,10 @@ nav, .content {
 
 #brasil-img {
     margin-top: -425px;
+}
+
+.paises img {
+    width: 550px;
 }
 
 #bulgaria-img {
